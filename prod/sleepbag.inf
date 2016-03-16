@@ -1,0 +1,51 @@
+Title=Input title here
+
+######################################
+## TitleIcon to show icon below title
+## Multiple TitleIconPic will show multiple icon in single line
+######################################
+#TitleIconPic=Input Icon image path here, 100x100
+#TitleIconPic=Input Icon image path here, 100x200
+
+######################################
+## Description section
+## Multiple DescriptionText will create multiple paragraph
+######################################
+DescriptionText=Input description text here, one paragraph 1
+DescriptionText=Input description text here, one paragraph 2
+DescriptionText=Input description text here, one paragraph 3
+
+######################################
+## Detail is picture group
+## Multiple DetailPic will create multiple pictures
+######################################
+DetailPic=http://113.imagebam.com/download/d5ocQ4EPjxFu4_khMEO1lw/45775/457749440/bluetoothspeaker16.jpg
+DetailPic=http://105.imagebam.com/download/rg1IWep_mpMXva4hCfGx1Q/45775/457749477/bluetoothspeaker17.jpg
+DetailPic=http://105.imagebam.com/download/QfdgHwuVCHAC8x7vZuNXKA/45815/458140748/bluetoothspeaker19_2.jpg
+
+######################################
+## Feature and Specification are similar, both list style
+######################################
+FeatureList=Input feature here 1
+FeatureList=Input feature here 2
+FeatureList=Input feature here 3
+
+SpecificationList=Input specification here 1
+SpecificationList=Input specification here 2
+SpecificationList=Input specification here 3
+
+######################################
+## MoreDetail is picture group
+## Multiple MoreDetailPic will create multiple pictures
+######################################
+
+MoreDetailPic=Input detail picture path here, 600x600  1
+MoreDetailPic=Input detail picture path here, 600x600  2
+
+######################################
+## SpecialTC is special term and condition
+## Multiple SpecialTCText will create multiple paragraph
+######################################
+SpecialTCText=Input special term and condition here 1
+SpecialTCText=Input special term and condition here 2
+

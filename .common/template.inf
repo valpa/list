@@ -1,0 +1,49 @@
+Title=Input title here
+
+######################################
+## TitleIcon to show icon below title
+## Multiple TitleIconPic will show multiple icon in single line
+######################################
+#TitleIconPic=Input Icon image path here, 100x100
+#TitleIconPic=Input Icon image path here, 100x200
+
+######################################
+## Description section
+## Multiple DescriptionText will create multiple paragraph
+######################################
+#DescriptionText=Input description text here, one paragraph
+#DescriptionText=Input description text here, one paragraph
+
+######################################
+## Detail is picture group
+## Multiple DetailPic will create multiple pictures
+######################################
+#DetailPic=Input detail picture path here, 600x600
+#DetailPic=Input detail picture path here, 600x600
+
+######################################
+## Feature and Specification are similar, both list style
+######################################
+#FeatureList=Input feature here
+#FeatureList=Input feature here
+#FeatureList=Input feature here
+
+#SpecificationList=Input specification here
+#SpecificationList=Input specification here
+#SpecificationList=Input specification here
+
+######################################
+## MoreDetail is picture group
+## Multiple MoreDetailPic will create multiple pictures
+######################################
+
+#MoreDetailPic=Input detail picture path here, 600x600
+#MoreDetailPic=Input detail picture path here, 600x600
+
+######################################
+## SpecialTC is special term and condition
+## Multiple SpecialTCText will create multiple paragraph
+######################################
+#SpecialTCText=Input special term and condition here
+#SpecialTCText=Input special term and condition here
+
